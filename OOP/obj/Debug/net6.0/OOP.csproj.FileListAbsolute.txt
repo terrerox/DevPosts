@@ -1,0 +1,5 @@
+/Users/terrerox/Desktop/projects/DevPosts/OOP/obj/Debug/net6.0/OOP.csproj.AssemblyReference.cache
+/Users/terrerox/Desktop/projects/DevPosts/OOP/obj/Debug/net6.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/terrerox/Desktop/projects/DevPosts/OOP/obj/Debug/net6.0/OOP.AssemblyInfoInputs.cache
+/Users/terrerox/Desktop/projects/DevPosts/OOP/obj/Debug/net6.0/OOP.AssemblyInfo.cs
+/Users/terrerox/Desktop/projects/DevPosts/OOP/obj/Debug/net6.0/OOP.csproj.CoreCompileInputs.cache
