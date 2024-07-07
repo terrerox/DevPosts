@@ -1,0 +1,15 @@
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/bin/Debug/net6.0/SOLID
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/bin/Debug/net6.0/SOLID.deps.json
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/bin/Debug/net6.0/SOLID.runtimeconfig.json
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/bin/Debug/net6.0/SOLID.dll
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/bin/Debug/net6.0/SOLID.pdb
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/obj/Debug/net6.0/SOLID.csproj.AssemblyReference.cache
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/obj/Debug/net6.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfoInputs.cache
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/obj/Debug/net6.0/SOLID.AssemblyInfo.cs
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/obj/Debug/net6.0/SOLID.csproj.CoreCompileInputs.cache
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/obj/Debug/net6.0/SOLID.dll
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/obj/Debug/net6.0/refint/SOLID.dll
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/obj/Debug/net6.0/SOLID.pdb
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/obj/Debug/net6.0/SOLID.genruntimeconfig.cache
+/Users/terrerox/Desktop/projects/DevPosts/SOLID/SOLID/obj/Debug/net6.0/ref/SOLID.dll
